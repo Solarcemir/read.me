@@ -43,7 +43,7 @@ Always eager to learn new technologies and work on interesting projects.
 
 ## Contact
 
-Find me on [GitHub](https://github.com/your-username) or email me at your-email@example.com.
+lhoifan@uoguelph.ca
 
 ---
 
